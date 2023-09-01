@@ -1,0 +1,45 @@
+#NavLink a
+{
+    background-color: #333333;
+    transition: background-color 0.7s, color 0.7s;
+}
+#NavLink a:hover
+{
+    background-color: #642579;
+    color: white;
+}
+#NavLink a:active
+{
+    background-color: #8032a0;
+}
+#NavHatterSzin
+{
+    background-color: #333333;
+}
+.LilaGomb 
+{
+  color: #fff;
+  background-color: #8032a0;
+  border-color: #8032a0;
+}
+.LilaGomb:hover 
+{
+  color: #fff;
+  background-color: #642579;
+  border-color: #642579;
+}
+.LilaGomb:focus, #LilaGomb.focus 
+{
+  color: #fff;
+  background-color: #8032a0;
+  border-color: #8032a0;
+  box-shadow: 0 0 0 0.2rem rgba(128, 50, 160, 0.5);
+}
+.LilaSzoveg
+{
+    color: #8032a0;
+}
+.LilaSzoveg2
+{
+    color: #642579;
+}
